@@ -4,7 +4,7 @@
 
 **What is this web about?**
 
-If you access here 💻 LINK, you'll find a wizard finder. You can use 3 filters to find your favourite character from Hogwarts: name, House or ancestry. Once you've located them, click on them to know more about who they are. 
+If you access here 💻 https://okia02.github.io/HarryPotter_wizards/, you'll find a wizard finder. You can use 3 filters to find your favourite character from Hogwarts: name, House or ancestry. Once you've located them, click on them to know more about who they are. 
 
 Hurry up, Hogwarts is awaiting for you!
 
